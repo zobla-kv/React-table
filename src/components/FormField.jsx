@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import { warning } from "../utils/warningMessages";
+console.log('test')
 
 class FormField extends Component {
   constructor() {
